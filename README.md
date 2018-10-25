@@ -1,2 +1,2 @@
 # number-guesser
-<h1> Number guesser console app from Brad Traversy's tutorial</h1>
+<p1> Number guesser console app from Brad Traversy's tutorial</p1>
