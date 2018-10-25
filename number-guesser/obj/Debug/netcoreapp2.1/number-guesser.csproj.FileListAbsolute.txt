@@ -1,0 +1,11 @@
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/bin/Debug/netcoreapp2.1/number-guesser.deps.json
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/bin/Debug/netcoreapp2.1/number-guesser.runtimeconfig.json
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/bin/Debug/netcoreapp2.1/number-guesser.runtimeconfig.dev.json
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/bin/Debug/netcoreapp2.1/number-guesser.dll
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/bin/Debug/netcoreapp2.1/number-guesser.pdb
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.csprojAssemblyReference.cache
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.csproj.CoreCompileInputs.cache
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.AssemblyInfoInputs.cache
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.AssemblyInfo.cs
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.dll
+/Users/admin/Documents/Web Development/number-guesser/number-guesser/obj/Debug/netcoreapp2.1/number-guesser.pdb
